@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: faty-portfolio-api
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node src/server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: FRONTEND_URL
+        sync: false   # remplir dans le dashboard Render

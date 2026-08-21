@@ -4,7 +4,7 @@ import { portfolioService } from '../services/api';
 const FALLBACK = {
   profile: {
     name: "Faty Rokhy Niasse",
-    title: "Développeure Full Stack",
+    title: "Développeuse Full Stack",
     tagline: "Je conçois et développe des applications web robustes, du backend à l'interface utilisateur.",
     email: "fatyrokhy777@gmail.com",
     location: "Dakar, Sénégal",

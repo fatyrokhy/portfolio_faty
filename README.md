@@ -1,5 +1,5 @@
 # Portfolio — Faty Rokhy Niasse
-> Développeure Full Stack · Dakar, Sénégal
+> Développeuse Full Stack · Dakar, Sénégal
 
 Stack : **React 18 + Vite** (frontend) · **Node.js / Express** (backend) · **Swagger UI** (docs API)
 
